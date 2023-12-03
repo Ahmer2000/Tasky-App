@@ -23,6 +23,9 @@ body{
 #to-do-form input::placeholder{
   color: rgba(255, 255, 255, 0.5);
 }
+#to-do-form button:hover{
+  background-color: rgb(173, 127, 68) ;
+}
 #to-do-form input:focus , #to-do-form button:focus{
   outline: none;
 }

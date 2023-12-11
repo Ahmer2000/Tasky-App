@@ -1,9 +1,9 @@
 body {
-  background-color: #9266ff;
+  background-color: #D6E8EE;
 }
 
 .App {
-  background-color: #3f3160;
+  background-color: #02457A;
   min-height: 500px;
   width: 400px;
   margin: 40px auto;
@@ -14,7 +14,7 @@ body {
   width: 220px;
   height: 50px;
   padding: 0 20px;
-  background-color: rgb(27, 112, 137);
+  background-color: #018ABE;
   border: 0;
   margin: 20px;
   border-radius: 10px;
